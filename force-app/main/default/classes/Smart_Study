@@ -1,1 +1,30 @@
-<h1> this is my first page.<h1>
+<h1> this is my first page. this Update after clone repository from Vs code
+
+
+
+echo "# Classic_Dev_Org" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rahulkumar6894/Classic_Dev_Org.git
+git push -u origin main
+
+
+if you want to clone Git Setting up a repository
+1.  You can search for and clone a repository from GitHub using the Git: Clone command in the  
+    Command Palette (Ctrl+Shift+P) or by using the Clone Repository button in the Source Control view (available when you have no folder open).
+    >Git:Clone
+ click option Clone from GIT
+ 
+2. Copy clone url from GIT repository +Paste HIt
+	navatar-group/ navatar-group/PE-V4.7-Configuration.git
+3. Create local folder
+   
+4.  Changes branch from below pannel
+
+
+
+
+
+<h1>
